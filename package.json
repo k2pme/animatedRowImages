@@ -1,0 +1,24 @@
+{
+  "name": "animatedrowimages",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {  
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/k2pme/animatedRowImages.git"
+  },
+  "keywords": [
+    "js",
+    "Reactjs",
+    "animation"
+  ],
+  "author": "k2pme",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/k2pme/animatedRowImages/issues"
+  },
+  "homepage": "https://github.com/k2pme/animatedRowImages#readme"
+}
