@@ -22,7 +22,12 @@
   },
   "homepage": "https://github.com/k2pme/animatedRowImages#readme",
   "dependencies": {
+    "animatedrowimages": "github:k2pme/animatedRowImages",
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.25.3",
+    "@babel/preset-react": "^7.24.7"
   }
 }
