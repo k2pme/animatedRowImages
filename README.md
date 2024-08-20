@@ -6,6 +6,8 @@ A React component for displaying animated images with smooth and customizable CS
   ```bash
   git clone https://github.com/k2pme/animatedRowImages.git
   ```
+  or check out the HTML version on codepen here 
+  👉🏾 [Animated row images](https://codepen.io/Clodlin-Mantsila/pen/mdZxJzm) your can let me a react it's free 😁
 
 ##    Folder Structure
 
