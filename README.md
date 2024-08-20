@@ -2,7 +2,7 @@
 
 A React component for displaying animated images with smooth and customizable CSS effects. Perfect for enhancing your user interfaces with elegant animations.
 
-## Installation
+**Installation**
 
 git clone https://github.com/k2pme/animatedRowImages.git
 
