@@ -22,7 +22,7 @@ A React component for displaying animated images with smooth and customizable CS
   images : []
   ```
   Your images list
-  *there are 4 defaults images, pick from Pinterest, which I've absolute not rights for
+  >there are 4 defaults images, pick from Pinterest, which I've absolute not rights for
 
 ## Example 
   ```jsx
