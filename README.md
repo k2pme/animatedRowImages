@@ -44,7 +44,7 @@ A React component for displaying animated images with smooth and customizable CS
 
 Feel free to improve the components, it's not perfect I don't take you that fact 🤣
 
-## Credit 
+## Credits
   - [light](https://i.pinimg.com/236x/90/0e/fa/900efa4902d0dc5c886d5d84c798e908.jpg)
   - [haster from A J](https://i.pinimg.com/236x/38/65/21/386521c5e15570a435fddcd124ff61a7.jpg)
   - [car in the night from حسناء](https://i.pinimg.com/236x/de/1d/e7/de1de749efbb8f3db121c5f7ff105cdb.jpg)
